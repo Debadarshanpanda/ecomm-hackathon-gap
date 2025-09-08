@@ -143,5 +143,6 @@
         </executions>
       </plugin>
     </plugins>
+    <finalName>hackathon-image</finalName>
   </build>
 </project>
